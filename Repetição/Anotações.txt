@@ -1,0 +1,15 @@
+while (Enquanto)
+Repete enquanto uma condição for verdadeira.
+Útil quando você não sabe exatamente o número de repetições.
+
+do-while (Faça-enquanto)
+Executa o código pelo menos uma vez e depois verifica a condição.
+Útil quando você quer garantir que o bloco será executado ao menos uma vez.
+
+for (Para)
+Útil quando você sabe o número exato de repetições.
+É dividido em três partes:
+Inicialização (ex.: int i = 0;)
+Condição de continuidade (ex.: i < 5;)
+Incremento ou decremento (ex.: i++)
+

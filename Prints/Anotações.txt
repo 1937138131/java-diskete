@@ -1,0 +1,16 @@
+System.out.print
+Imprime o texto ou valor sem pular para a próxima linha.
+
+System.out.println
+Imprime o texto ou valor e pula para a próxima linha.
+
+Concatenação com +
+Permite juntar valores ou variáveis em uma única saída.
+
+printf (formatação)
+Imprime textos formatados, parecido com o printf do C. Usa placeholders como %d, %s, etc.
+
+Escape characters
+Usados para caracteres especiais, como quebra de linha (\n) e tabulação (\t).
+
+

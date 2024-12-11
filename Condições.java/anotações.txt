@@ -1,0 +1,16 @@
+Use if para condições simples.
+Use if-else para decisões com alternativas.
+Use if-else if-else para verificar várias condições.
+Use switch para múltiplas opções com a mesma variável.
+
+1. if (Se)
+Executa um bloco de código apenas se a condição for verdadeira.
+
+2. if-else (Se-Senão)
+Permite executar um bloco de código se a condição for verdadeira e outro bloco se for falsa.
+
+3. if-else if-else (Se-Senão-Se)
+Usado para testar múltiplas condições. O código executa o primeiro bloco cuja condição seja verdadeira.
+
+4. switch (Escolha)
+Usado quando você precisa verificar várias possibilidades para uma mesma variável ou expressão.
